@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<workspace>
+
+	<settings>
+
+		<label>Animal</label>
+
+		<id>0</id>
+
+		<version>0</version>
+
+	</settings>
+
+	<users>
+
+		<user>
+
+			<path>Animal2.jcu</path>
+
+		</user>
+
+	</users>
+
+	<projects>
+
+		<project>
+
+			<path>Animal.jcp</path>
+
+		</project>
+
+	</projects>
+
+</workspace>
